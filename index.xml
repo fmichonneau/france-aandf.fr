@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Allison &amp; François</title>
+    <link>http://france.allisonandfrancois.fr/index.xml</link>
+    <description>Recent content on Allison &amp; François</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Mar 2017 08:39:55 -0500</lastBuildDate>
+    <atom:link href="http://france.allisonandfrancois.fr/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>informations</title>
+      <link>http://france.allisonandfrancois.fr/informations/</link>
+      <pubDate>Sun, 05 Mar 2017 08:39:55 -0500</pubDate>
+      
+      <guid>http://france.allisonandfrancois.fr/informations/</guid>
+      <description>&lt;p&gt;Nous sommes en train de préparer les festivités pour une célébration en fin
+d&amp;rsquo;été (probablement le 26 aout 2017). Nous ajouterons plus d&amp;rsquo;informations très
+rapidement.&lt;/p&gt;
+
+&lt;p&gt;We are in the process of preparing the festivities for a late summer celebration (possibly on August 26th, 2017). We will add more information as soon as possible.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
