@@ -10,16 +10,28 @@
     <atom:link href="http://france.allisonandfrancois.fr/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>informations</title>
+      <title>Informations</title>
       <link>http://france.allisonandfrancois.fr/informations/</link>
       <pubDate>Sun, 05 Mar 2017 08:39:55 -0500</pubDate>
       
       <guid>http://france.allisonandfrancois.fr/informations/</guid>
-      <description>&lt;p&gt;Nous sommes en train de préparer les festivités pour une célébration en fin
-d&amp;rsquo;été (probablement le 26 aout 2017). Nous ajouterons plus d&amp;rsquo;informations très
-rapidement.&lt;/p&gt;
+      <description>&lt;p&gt;Nous vous invitons à célébrer l&amp;rsquo;union d&amp;rsquo;Allison et François qui aura lieu le vendredi 4 août 2017 à 19h au gîte de l&amp;rsquo;Ancien Presbytère à  St Martin de Sanzay (79).&lt;/p&gt;
 
-&lt;p&gt;We are in the process of preparing the festivities for a late summer celebration (possibly on August 26th, 2017). We will add more information as soon as possible.&lt;/p&gt;
+&lt;p&gt;A l&amp;rsquo;issue de la cérémonie, nous aurons le plaisir de vous accueillir pour un cocktail suivi d&amp;rsquo;un dîner.&lt;/p&gt;
+
+&lt;p&gt;Un brunch sera servi le lendemain.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Confirmation</title>
+      <link>http://france.allisonandfrancois.fr/confirmez/</link>
+      <pubDate>Sun, 05 Mar 2017 08:39:55 -0500</pubDate>
+      
+      <guid>http://france.allisonandfrancois.fr/confirmez/</guid>
+      <description>&lt;p&gt;Merci de confirmer votre présence en remplissant [ce formulaire]() avant le 15 Juin 2017&lt;/p&gt;
+
+&lt;p&gt;Please RSVP by filling out this form by June 15th, 2017&lt;/p&gt;
 </description>
     </item>
     
