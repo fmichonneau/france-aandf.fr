@@ -2127,6 +2127,7 @@ ul li {
   font-weight: bold; }
 
 a.fn-item {
+  text-decoration: none;
   display: block;
   cursor: pointer;
   opacity: 0.7; }
